@@ -10,7 +10,13 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+		"react-scripts": "^5.0.1",
+		"@cometchat-pro/chat": "3.0.10",
+		"@emotion/core": "^10.0.35",
+		"dateformat": "^4.0.0",
+		"html-react-parser": "^1.4.5",
+		"twemoji": "^13.0.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
